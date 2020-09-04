@@ -1,0 +1,48 @@
+fieldset{
+  border: 2px solid #ffc107;
+
+}
+legend{
+  text-align: center;
+
+}
+.info{
+  padding: 15px;
+}
+.info>p{
+  display: inline;
+}
+.info{
+  display: none;
+}
+body>form {
+  padding: 15px;
+}
+textarea{
+  border-radius: 20px;
+  height: 100px;
+  width: 100%
+}
+span{
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+.post-content{
+  color: white;
+  size: 20px;
+}
+.post-header{
+  text-align: left;
+}
+.hidden{
+  display: none;
+}
+.post{
+  width:100%;
+}
+.posts-container>.row{
+  padding: 20px;
+}
+.info-container{
+  width: 100%;
+}

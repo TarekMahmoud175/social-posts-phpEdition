@@ -1,0 +1,47 @@
+body{
+  background-color:#292E33;
+}
+.row{
+  padding: 30px;
+}
+.card{
+  background-color: #343940;
+  border-radius: 30px !important;
+}
+.card-header{
+   border:none;
+   text-align: center;
+   font-weight: bold;
+   color: white;
+   text-shadow: 2px 2px 4px #000000;
+   background-color: #343940;
+   box-shadow:  1px 1px #343940;
+   border-radius: 30px !important;
+}
+.card-block{
+  padding: 15px;
+  border-radius: 30px !important;
+}
+label{
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+nav>div>a{
+  padding: 5px;
+}
+i{
+  font-size:20px;
+  color: #99a5b2;
+}
+.row-header{
+  padding: 0px !important;
+}
+.modal-header{
+   text-shadow: 2px 2px 4px #000000;
+   background-color: #343940;
+   box-shadow:  1px 1px #343940;
+   /*border-radius: 30px !important;*/
+}
+.modal-footer,.modal-body{
+  background-color: #343940;
+}

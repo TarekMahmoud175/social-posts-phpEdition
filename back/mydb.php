@@ -15,5 +15,4 @@ function connection()
   }
   return $conn;
 }
-// id10971365_social online
 ?>
